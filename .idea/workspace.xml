@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64570545-d55d-4f4b-9e38-51438ee87ebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BRG finder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BRG finder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BRG_finder_201909.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver_win32.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver_win32/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Westin_Cincinnati.py" beforeDir="false" afterPath="$PROJECT_DIR$/Westin_Cincinnati.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +18,22 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/BRG_finder$Westin_Cincinnati.coverage" NAME="Westin_Cincinnati Coverage Results" MODIFIED="1539692668673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RRepgvc5ZoOrEOvgCbHYbGUOxp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/.PyCharm2019.2/PycharmConda" />
@@ -34,6 +47,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -46,7 +66,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.BRG_finder_201909">
+    <configuration name="BRG_finder_201909" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BRG finder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BRG_finder_201909.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Westin_Cincinnati" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BRG finder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BRG_finder_201909" />
         <item itemvalue="Python.Westin_Cincinnati" />
       </list>
     </recent_temporary>
@@ -85,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539690949837</updated>
-      <workItem from="1569634522551" duration="2578000" />
+      <workItem from="1569634522551" duration="7452000" />
     </task>
     <servers />
   </component>
@@ -103,7 +146,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BRG_finder_201909.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BRG_finder$Westin_Cincinnati.coverage" NAME="Westin_Cincinnati Coverage Results" MODIFIED="1569637385674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BRG_finder$Westin_Cincinnati.coverage" NAME="Westin_Cincinnati Coverage Results" MODIFIED="1569638489634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BRG_finder$BRG_finder_201909.coverage" NAME="BRG_finder_201909 Coverage Results" MODIFIED="1569640016661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

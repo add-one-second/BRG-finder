@@ -92,8 +92,8 @@ def date_box_click(checkin_date, checkout_date):
     elems = driver.find_elements_by_class_name("lxhdrtxt")
     elems[0].click()
     time.sleep(1)
-    # elems = driver.find_elements_by_class_name("hudp-nextMonth")
-    # elems[0].click()
+    elems = driver.find_elements_by_class_name("hudp-nextMonth").click()
+    # elems[0]
     # time.sleep(1)
     driver.find_element_by_xpath("//td[@aria-label='" + checkin_date + "']").click()
     time.sleep(1)
